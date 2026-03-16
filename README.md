@@ -14,16 +14,4 @@ Docker • Linux • Git • Cloud Fundamentals
 
 ---
 
-## Projects
-
-**Job Market Data Platform**  
-Pipeline that collects and analyzes Data Engineer job postings in Ukraine.  
-Stack: Airflow, Spark, Postgres, MinIO, Docker, Metabase.
-
-**SEC Filings RAG**  
-Retrieval-augmented system for querying SEC 10-K and 10-Q filings.  
-Stack: Python, OpenAI embeddings, ChromaDB, vector search, MMR retrieval.
-
----
-
-GitHub: https://github.com/sshatl
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Data+Engineering;Cloud+Infrastructure;Building+Data+Platforms)
