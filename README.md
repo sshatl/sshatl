@@ -1,16 +1,29 @@
-## Hi there 👋
+## Hi there 👋, I'm Ihor
 
-<!--
-**sshatl/sshatl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Engineering and Cloud Infrastructure.
 
-Here are some ideas to get you started:
+Building data pipelines, ETL systems and RAG applications using modern data stack.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Stack
+
+Python • SQL • Apache Spark • Airflow • dbt  
+PostgreSQL • Data Warehousing • ETL/ELT  
+Docker • Linux • Git • Cloud Fundamentals
+
+---
+
+## Projects
+
+**Job Market Data Platform**  
+Pipeline that collects and analyzes Data Engineer job postings in Ukraine.  
+Stack: Airflow, Spark, Postgres, MinIO, Docker, Metabase.
+
+**SEC Filings RAG**  
+Retrieval-augmented system for querying SEC 10-K and 10-Q filings.  
+Stack: Python, OpenAI embeddings, ChromaDB, vector search, MMR retrieval.
+
+---
+
+GitHub: https://github.com/sshatl
