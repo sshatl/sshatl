@@ -9,7 +9,7 @@ Building data pipelines, ETL systems and RAG applications using modern data stac
 ## Stack
 
 Python • SQL • Apache Spark • Airflow • dbt  
-PostgreSQL • Data Warehousing • ETL/ELT  
+Data Warehousing • ETL/ELT  
 Docker • Linux • Git • Cloud Fundamentals
 
 ---
